@@ -2591,5 +2591,12 @@
   "Upload the program directly to your EV3 over a Bluetooth connection using Web Serial.": "Прямая загрузка программы на EV3 по Bluetooth через Web Serial.",
   "To change the upload method, click the '...' button next to Download and select 'Upload method'.": "Чтобы изменить способ загрузки, нажмите кнопку '...' рядом с кнопкой «Скачать» и выберите «Способ загрузки».",
   "Download to your EV3": "Загрузка на EV3",
-  "I got it": "Понятно"
+  "I got it": "Понятно",
+  "EV3 Dark": "EV3 Темная",
+  "EV3 Light": "EV3 Светлая",
+  "High Contrast": "Высокая контрастность",
+  "Choose a theme": "Выберите тему",
+  "{id:color-theme-name}EV3 Dark": "EV3 Темная",
+  "{id:color-theme-name}EV3 Light": "EV3 Светлая",
+  "{id:color-theme-name}High Contrast": "Высокая контрастность"
 }

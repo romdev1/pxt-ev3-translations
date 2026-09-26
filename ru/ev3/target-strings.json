@@ -76,5 +76,19 @@
   "When the browser asks you to select a serial port, select the port with the name of your EV3. This is the name you set on your EV3 controller.": "Когда браузер предложит выбрать порт, выберите устройство с именем вашего EV3 (имя, указанное в настройках блока).",
   "You must have version 1.10E or above of the firmware": "Вы должны иметь версию прошивки 1.10E или выше",
   "You will be prompted to select a serial port.": "Вам будет предложено выбрать последовательный порт.",
-  "error on brick ({0})": "ошибка на контроллере ({0})"
+  "error on brick ({0})": "ошибка на контроллере ({0})",
+  "Theme": "Тема",
+  "Select Theme": "Выбрать тему",
+  "Choose a Theme": "Выберите тему",
+  "Choose a theme": "Выберите тему",
+  "EV3 Dark": "EV3 Темная",
+  "EV3 Light": "EV3 Светлая",
+  "High Contrast": "Высокая контрастность",
+  "{id:color-theme-name}EV3 Dark": "EV3 Темная",
+  "{id:color-theme-name}EV3 Light": "EV3 Светлая",
+  "{id:color-theme-name}High Contrast": "Высокая контрастность",
+  "Theme type": "Тип темы",
+  "Editor theme": "Тема редактора",
+  "Simulator theme": "Тема симулятора",
+  "Apply": "Применить"
 }
